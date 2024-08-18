@@ -1,2 +1,2 @@
 # Diego-Bartolucci
-Lab1
+Hola, soy Diego Bartolucci y este es mi primer repositorio!!

@@ -24,7 +24,7 @@ Puedes contactarme mandando un correo aquí abajo!!
 
 - He jugado casi toda mi vida basquetball 🏀
 
-- Me encanta escuchar música, mi grupo favorito es Twenty One Pilots <img width="50px" src="https://1000logos.net/wp-content/uploads/2017/09/Twenty-One-Pilots-Logo-500x281.png">
+- Me encanta escuchar música, mi grupo favorito es Twenty One Pilots <img width="30px" src="https://1000logos.net/wp-content/uploads/2017/09/Twenty-One-Pilots-Logo-500x281.png">
 
 ## Skills 
 

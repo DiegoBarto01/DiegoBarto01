@@ -54,7 +54,8 @@ Puedes contactarme mandando un correo aquí abajo!!
 </td>
 
 <td align="center" width="33%">
-<img height=100px src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5lY29zYXdlZzQ2OHAxaTB2dDFmMmI2eWx1enRkejBiOGNmNG93aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif">  
+<img height=100px src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5lY29zYXdlZzQ2OHAxaTB2dDFmMmI2eWx1enRkejBiOGNmNG93aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif">
+Trabajando para aprender más  
 </td>
 <tr>
  

@@ -10,7 +10,7 @@ Puedes contactarme mandando un correo aquí abajo!!
     </a>
 </p>
 
-## Sobre mí <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xyYXE0NTQwaHR6MHkyb2U0d3E4bWVzc3BleTZvNWx3b3pxZjV1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13UoiCY2pJSwZW/giphy.gif" width="30px">
+## Sobre mí <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xyYXE0NTQwaHR6MHkyb2U0d3E4bWVzc3BleTZvNWx3b3pxZjV1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13UoiCY2pJSwZW/giphy.gif" width="50px">
 
 <img align="right" width=300px height=200px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBydzF0Y3Iyd2o3c3h2Mmt0am9na2llbnE1aTNjY2ZrOHA0bGRwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" />
 
@@ -24,7 +24,7 @@ Puedes contactarme mandando un correo aquí abajo!!
 
 - He jugado casi toda mi vida basquetball 🏀
 
-- Me encanta escuchar música, mi grupo favorito es Twenty One Pilots <img width="100px" src="https://1000logos.net/wp-content/uploads/2017/09/Twenty-One-Pilots-Logo-500x281.png">
+- Me encanta escuchar música, mi grupo favorito es Twenty One Pilots <img width="50px" src="https://1000logos.net/wp-content/uploads/2017/09/Twenty-One-Pilots-Logo-500x281.png">
 
 ## Skills 
 

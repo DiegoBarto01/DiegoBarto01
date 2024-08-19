@@ -10,9 +10,9 @@ Puedes contactarme mandando un correo aquí abajo!!
     </a>
 </p>
 
-## Intereses <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xyYXE0NTQwaHR6MHkyb2U0d3E4bWVzc3BleTZvNWx3b3pxZjV1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13UoiCY2pJSwZW/giphy.gif" width="30px">
+## Sobre mí <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xyYXE0NTQwaHR6MHkyb2U0d3E4bWVzc3BleTZvNWx3b3pxZjV1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13UoiCY2pJSwZW/giphy.gif" width="30px">
 
-<img align="right" width=300px height=200px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUxd2xmNGM4OWQ1aWVydTZpaHl5b3hvYW4xeGUwZ3ltNWZ6eWQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQkKavfX6TER2/giphy.gif" />
+<img align="right" width=300px height=200px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBydzF0Y3Iyd2o3c3h2Mmt0am9na2llbnE1aTNjY2ZrOHA0bGRwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" />
 
 - El procesamiento de imágenes con inteligencia artificial 💻🧠
 
@@ -23,6 +23,8 @@ Puedes contactarme mandando un correo aquí abajo!!
 - Me encanta comer y dormir 🌭😴
 
 - He jugado casi toda mi vida basquetball 🏀
+
+- Me encanta escuchar música, mi grupo favorito es Twenty One Pilots <img width="100px" src="https://1000logos.net/wp-content/uploads/2017/09/Twenty-One-Pilots-Logo-500x281.png">
 
 ## Skills 
 

@@ -16,11 +16,13 @@ Puedes contactarme mandando un correo aquí abajo!!
 
 - El procesamiento de imágenes con inteligencia artificial 💻🧠
 
-- Jugar videojuegos 🎮
+- En mi tiempo libre juego videojuegos 🎮
 
 - Soy cat-lover 🐱‍👤
 
 - Me encanta comer y dormir 🌭😴
+
+- He jugado casi toda mi vida basquetball 🏀
 
 ## Skills 
 
@@ -28,5 +30,34 @@ Puedes contactarme mandando un correo aquí abajo!!
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
+
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+</td>
+
+</td>
+
+</tr>
+
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ 
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=100px src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5lY29zYXdlZzQ2OHAxaTB2dDFmMmI2eWx1enRkejBiOGNmNG93aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif">  
+</td>
+<tr>
+ 
+ </tr>
+</tbody>
+</table>

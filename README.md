@@ -27,7 +27,7 @@ Puedes contactarme mandando un correo aquí abajo!!
 - Mi grupo de música favorito es Twenty One Pilots <img width="30px" src="https://1000logos.net/wp-content/uploads/2017/09/Twenty-One-Pilots-Logo-500x281.png">
 
 ## Skills 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FpZDFmMDJ4Mnp1cmQydmN3dHlidXJjdGVwZm95dDI3bm1hMjRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/dHOganMOx3lNCSZvGZ/giphy.gif" width="100px">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FpZDFmMDJ4Mnp1cmQydmN3dHlidXJjdGVwZm95dDI3bm1hMjRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/dHOganMOx3lNCSZvGZ/giphy.gif" width="150px">
 
 <table>
 <tbody>

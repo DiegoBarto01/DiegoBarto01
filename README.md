@@ -1,7 +1,7 @@
 # Diego Bartolucci
 Hola, soy Diego Bartolucci y este es mi primer repositorio personal!!
 
-## Contacto <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh5bzVxcnRuZXI3ZHB3YXc5YTV0bDl5aWUwYjRkYWIwZ25jdXV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cQz5MLlnP5rfa/giphy.gif" width="30px">
+## Contacto <img src="https://media.giphy.com/media/cQz5MLlnP5rfa/giphy.gif" width="30px">
 
 Puedes contactarme mandando un correo aquí abajo!!
 <p align="center">
@@ -14,7 +14,7 @@ Puedes contactarme mandando un correo aquí abajo!!
 
 <img align="right" width=300px height=200px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUxd2xmNGM4OWQ1aWVydTZpaHl5b3hvYW4xeGUwZ3ltNWZ6eWQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQkKavfX6TER2/giphy.gif" />
 
-- El procesamiento de imágenes con inteligencia artificial 💻🎥
+- El procesamiento de imágenes con inteligencia artificial 💻🧠
 
 - Jugar videojuegos 🎮
 

@@ -5,7 +5,9 @@ Hola, soy Diego Bartolucci y este es mi primer repositorio!!
 
 Puedes contactarme mandando un correo aquí abajo!!
 <p align="center">
-    [![Contacto](https://img.shields.io/badge/Contacto-Enviar_correo-EA4335?style=for-the-badge&logo=gmail)](mailto:diegobartoluccid@gmail.com)
+    <a href="mailto:diegobartoluccid@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </p>
 
 ## Intereses

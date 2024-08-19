@@ -1,7 +1,7 @@
 # Diego Bartolucci
 Hola, soy Diego Bartolucci y este es mi primer repositorio personal!!
 
-## Contacto <img src="https://media.giphy.com/media/cQz5MLlnP5rfa/giphy.gif" width="30px">
+## Contacto
 
 Puedes contactarme mandando un correo aquí abajo!!
 <p align="center">
@@ -21,3 +21,12 @@ Puedes contactarme mandando un correo aquí abajo!!
 - Soy cat-lover 🐱‍👤
 
 - Me encanta comer y dormir 🌭😴
+
+## Skills 
+
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> 
+</td>
